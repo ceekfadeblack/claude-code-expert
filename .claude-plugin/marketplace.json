@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-expert-market",
+  "owner": {
+    "name": "Bahri Inceler"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-expert",
+      "source": "./",
+      "description": "Conductor + 11 live-docs specialists + /cc orchestration entrypoint + /cc-scan codebase recommender."
+    }
+  ]
+}

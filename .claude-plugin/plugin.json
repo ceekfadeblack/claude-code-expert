@@ -1,0 +1,10 @@
+{
+  "name": "claude-code-expert",
+  "description": "Conductor orchestration for Claude Code: routes any stated need to 11 live-docs specialist subagents and returns a teaching blueprint plus a ready-to-paste setup prompt. Includes /cc-scan to scan a codebase and proactively recommend automations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bahri Inceler"
+  },
+  "license": "MIT",
+  "keywords": ["orchestration", "subagents", "claude-code", "expert", "setup", "live-docs"]
+}
